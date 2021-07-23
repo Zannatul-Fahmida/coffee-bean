@@ -82,7 +82,7 @@ nav{
     padding: 10px 20px;
     color: #ffffff;
 }
-.active{
+.nav-links a.active{
     border-bottom: 3px solid #2D635E;
 }
 .half-width-left{
